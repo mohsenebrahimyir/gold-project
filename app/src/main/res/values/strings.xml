@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">پروژه طلا</string>
+    <string name="img_splash">تصویر لگو</string>
+    <string name="gold_price">قیمت طلا و ارز</string>
+    <string name="gold_price_global">
+    تازه ترین اخبار طلا و ارز روز جهان
+    </string>
+</resources>
