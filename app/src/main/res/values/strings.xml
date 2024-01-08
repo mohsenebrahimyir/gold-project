@@ -13,4 +13,11 @@
     </string>
     <string name="gold_price">قیمت طلا</string>
     <string name="currency_price">قیمت ارز</string>
+    <string name="img_description">
+    توضیحات تصاویر
+    </string>
+    <string name="txt_gold_18">
+    گرم طلای ۱۸
+    </string>
+    <string name="txt_gold_18_price">359,920</string>
 </resources>
