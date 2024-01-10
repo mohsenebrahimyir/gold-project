@@ -5,14 +5,15 @@
     <string name="txt_startup_subtitle">
     تازه ترین اخبار طلا و ارز روز جهان
     </string>
-    <string name="txt_date_jalali">
+    <string name="txt_time">
     سه شنبه ۱۲ فروردین ۱۴۰۲
     </string>
     <string name="txt_date_gregorian">
     26 March 2018
     </string>
-    <string name="gold_price">قیمت طلا</string>
-    <string name="currency_price">قیمت ارز</string>
+    <string name="gold">طلا</string>
+    <string name="currency">ارز</string>
+    <string name="crypto">کریپتو</string>
     <string name="img_description">
     توضیحات تصاویر
     </string>
@@ -20,4 +21,5 @@
     گرم طلای ۱۸
     </string>
     <string name="txt_gold_18_price">359,920</string>
+    <string name="toman">تومان</string>
 </resources>
